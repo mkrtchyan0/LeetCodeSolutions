@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\bin\Debug\net8.0\Roman to Integer.exe
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\bin\Debug\net8.0\Roman to Integer.deps.json
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\bin\Debug\net8.0\Roman to Integer.runtimeconfig.json
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\bin\Debug\net8.0\Roman to Integer.dll
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\bin\Debug\net8.0\Roman to Integer.pdb
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.sourcelink.json
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.dll
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\refint\Roman to Integer.dll
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.pdb
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\Roman to Integer.genruntimeconfig.cache
+C:\Users\ACER\Desktop\LeetcodeTasks\Roman to Integer\obj\Debug\net8.0\ref\Roman to Integer.dll
