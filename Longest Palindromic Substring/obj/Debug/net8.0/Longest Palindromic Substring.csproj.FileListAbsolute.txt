@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.exe
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.deps.json
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.runtimeconfig.json
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.dll
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.pdb
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.sourcelink.json
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.dll
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\refint\Longest Palindromic Substring.dll
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.pdb
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.genruntimeconfig.cache
+C:\Users\ACER\Desktop\LeetcodeTasks\Longest Palindromic Substring\obj\Debug\net8.0\ref\Longest Palindromic Substring.dll
