@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\BackendTest\obj\Debug\net8.0\BackendTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BackendTest\obj\Debug\net8.0\BackendTest.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BackendTest\obj\Debug\net8.0\BackendTest.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BackendTest\obj\Debug\net8.0\BackendTest.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BackendTest\obj\Debug\net8.0\BackendTest.sourcelink.json
