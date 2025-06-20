@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Valid Parentheses\bin\Debug\net8.0\Valid Parentheses.exe
+C:\Users\ACER\Desktop\Valid Parentheses\bin\Debug\net8.0\Valid Parentheses.deps.json
+C:\Users\ACER\Desktop\Valid Parentheses\bin\Debug\net8.0\Valid Parentheses.runtimeconfig.json
+C:\Users\ACER\Desktop\Valid Parentheses\bin\Debug\net8.0\Valid Parentheses.dll
+C:\Users\ACER\Desktop\Valid Parentheses\bin\Debug\net8.0\Valid Parentheses.pdb
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.sourcelink.json
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.dll
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\refint\Valid Parentheses.dll
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.pdb
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\Valid Parentheses.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Valid Parentheses\obj\Debug\net8.0\ref\Valid Parentheses.dll
