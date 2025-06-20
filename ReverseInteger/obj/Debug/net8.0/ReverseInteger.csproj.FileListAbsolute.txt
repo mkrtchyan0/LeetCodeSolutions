@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\ReverseInteger\bin\Debug\net8.0\ReverseInteger.exe
+C:\Users\ACER\Desktop\ReverseInteger\bin\Debug\net8.0\ReverseInteger.deps.json
+C:\Users\ACER\Desktop\ReverseInteger\bin\Debug\net8.0\ReverseInteger.runtimeconfig.json
+C:\Users\ACER\Desktop\ReverseInteger\bin\Debug\net8.0\ReverseInteger.dll
+C:\Users\ACER\Desktop\ReverseInteger\bin\Debug\net8.0\ReverseInteger.pdb
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.sourcelink.json
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.dll
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\refint\ReverseInteger.dll
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.pdb
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ReverseInteger.genruntimeconfig.cache
+C:\Users\ACER\Desktop\ReverseInteger\obj\Debug\net8.0\ref\ReverseInteger.dll
