@@ -1,0 +1,14 @@
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\bin\Debug\net8.0\RemoveElementInPlace.exe
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\bin\Debug\net8.0\RemoveElementInPlace.deps.json
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\bin\Debug\net8.0\RemoveElementInPlace.runtimeconfig.json
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\bin\Debug\net8.0\RemoveElementInPlace.dll
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\bin\Debug\net8.0\RemoveElementInPlace.pdb
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.AssemblyInfoInputs.cache
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.AssemblyInfo.cs
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.csproj.CoreCompileInputs.cache
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.dll
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\refint\RemoveElementInPlace.dll
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.pdb
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\RemoveElementInPlace.genruntimeconfig.cache
+C:\Users\vardanm\source\repos\RemoveElementInPlace\RemoveElementInPlace\obj\Debug\net8.0\ref\RemoveElementInPlace.dll
